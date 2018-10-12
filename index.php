@@ -1,3 +1,3 @@
 <?php 
-	echo "Bonjour!!! Bienvenue sur votre visite virtuel.";
+	echo "Bonjour!!! Bienvenue sur notre visite virtuel.";
 ?>
